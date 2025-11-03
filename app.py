@@ -65,7 +65,7 @@ with st.sidebar:
 
     st.info("Use sua própria chave Groq em [console.groq.com/keys](https://console.groq.com/keys)")
     st.divider()
-    st.markdown("📘 Projeto educacional da Data Science Academy")
+    st.markdown("📘 Projeto educacional desenvolvido por Vanessa Santana do Amaral, durante o curso de Fundamentos de Python da Data Science Academy")
 
 # ===========================================
 # 5. Histórico da conversa
@@ -128,7 +128,7 @@ st.markdown(
     """
     <hr>
     <p style="text-align:center;color:gray;">
-    🧠 DSA AI Coder - Aplicativo Educacional de Estudo em Python | Groq + Streamlit
+    🧠 DSA AI Coder - Aplicativo Educacional de Estudo em Python desenvolvido por Vanessa Santana do Amaral para fins didáticos.
     </p>
     """,
     unsafe_allow_html=True
